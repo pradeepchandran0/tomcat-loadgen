@@ -18,13 +18,13 @@ deploy:
   ready_seconds : 45
 
 properties:
-  title: Tomcat Loadgen - Demo for Reflections
-  head_color : Blue
+  title: Tomcat Loadgen - Demo for Reflections deployment no 1 
+  head_color : Green
   threads: 0
   delay: 60
   next: 60
   download: false
   random : false
-  nano : 369
+  nano : 123
 
 
