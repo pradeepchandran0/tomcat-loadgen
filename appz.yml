@@ -18,7 +18,7 @@ deploy:
   ready_seconds : 45
 
 properties:
-  title: Demo for Reflections ver2
+  title: Demo for Reflections ver3
   head_color : red
   threads: 0
   delay: 60
