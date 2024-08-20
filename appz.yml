@@ -19,7 +19,7 @@ deploy:
 
 properties:
   title: Tomcat Loadgen - Demo for Reflections ver 1
-  head_color : Blue
+  head_color : red
   threads: 0
   delay: 60
   next: 60
