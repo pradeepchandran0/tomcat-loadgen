@@ -19,7 +19,7 @@ deploy:
 
 properties:
   title: Demo for Reflections ver4
-  head_color : blue
+  head_color : Red
   threads: 0
   delay: 60
   next: 60
