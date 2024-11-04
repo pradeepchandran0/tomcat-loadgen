@@ -19,7 +19,7 @@ deploy:
 
 properties:
   title: Demo for Gomrode
-  head_color : Green
+  head_color : Blue
   threads: 0
   delay: 60
   next: 60
