@@ -19,12 +19,12 @@ deploy:
 
 properties:
   title: Demo for Lendo
-  head_color : Green
+  head_color : Blue
   threads: 0
   delay: 60
   next: 60
   download: false
   random : false
-  nano : 401
+  nano : 123
 
 
